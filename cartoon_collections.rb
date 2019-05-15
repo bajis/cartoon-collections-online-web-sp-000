@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(arr)# code an argument here
   # Your code here
-  arr.any? {|word| word.lenght > 4}
+  arr.any? {|word| word.length > 4}
 end
 
 def find_the_cheese# code an argument here
